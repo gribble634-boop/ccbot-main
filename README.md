@@ -1,0 +1,2 @@
+# ccbot-main
+Tmp
